@@ -1,5 +1,7 @@
 # Running Group Web App
 
+HERE IS MY PDF DOCUMENTATION FOR MORE DETAILS: https://github.com/kamongisetonde/Documentation_RunGroopApp.git
+
 ![Java](https://img.shields.io/badge/Java-%3E%3D8-brightgreen) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen) ![Hibernate](https://img.shields.io/badge/Hibernate-5.5.6-brightgreen) ![MySQL](https://img.shields.io/badge/MySQL-8.0-brightgreen) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3.0-brightgreen)
 
 ## Overview
